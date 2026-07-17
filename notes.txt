@@ -1,5 +1,7 @@
 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
 
+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
+
 Sudo apt systemctl stop jenkins
 sudo apt remove jenkins
 sudo apt purge jenkins
