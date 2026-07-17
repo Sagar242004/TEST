@@ -11,3 +11,11 @@ sudo rm -rf /var/lib/jenkins
 sudo rm -rf /etc/jenkins
 sudo rm -rf /var/log/jenkins
 sudo rm -rf /var/cache/jenkins
+
+
+git
+
+
+rm ~/.gitconfig (To Remove)
+git config --global user.name "Sagar242004"
+git config --global user.mail "dksagar7624910281@gmail.com"
